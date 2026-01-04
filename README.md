@@ -1,4 +1,4 @@
-🖌️ AirDraw 3D
+✨✨🖌️ AirDraw 3D
 
 Draw in mid-air using your hand gestures and visualize in true 3D!
 Experience gesture-based drawing, instant 3D extrusion, and export your creations.
